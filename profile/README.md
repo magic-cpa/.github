@@ -1,6 +1,6 @@
 Hi there 👋
 
-Welcome to magic-cpa!
+Welcome to Freelancing!
 
 We are a passionate team of developers and creative thinkers specializing in building custom software solutions for both web and mobile apps. We believe that every business has unique needs, which is why we create personalized development plans for each of our clients, ensuring that their project is aligned with their goals and objectives.
 What We Do
