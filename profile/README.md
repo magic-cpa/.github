@@ -31,8 +31,8 @@ We believe every business has unique needs — so we craft **personalized develo
 
 ## 📊 Development Stats
 <p align="center">
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=magic-cpa&layout=compact&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=magic-cpa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="165">
+  <!--<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="165">-->
 </p>
 
 ---
